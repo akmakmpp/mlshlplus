@@ -1,13 +1,20 @@
 [
           {       
-  "hdate":"Aug 27(No Download)",
+  "hdate":"Aug 27 (150MB)",
 "result":"Liverpool  9-0 bournemouth",
 "himgurl":"https://i.guim.co.uk/img/media/fae90256f8bd706ad684498031c083b4f834d86c/0_6_3500_2101/master/3500.jpg?width=620&quality=85&fit=max&s=88a1f16218dc5e4fbda6b21555046308",
                                   "hvurl": [
  
                                
-                                                          {"link":"https://cdnc33.koralast.com/UpFiles/2022/8/27/51/232280/360p.m3u8",
-  "type":"360P"
+                                                          {"link":"https://videos.files.wordpress.com/Ly0dBuV1/highlights__liverpool_9-0_bournemouth___record-breaking_nine_goals_at_anfield2521281080p5029_mp4_hd.mp4",
+  "type":"1080P"
+  },
+                                                          {"link":"https://videos.files.wordpress.com/Ly0dBuV1/highlights__liverpool_9-0_bournemouth___record-breaking_nine_goals_at_anfield2521281080p5029_mp4_dvd.mp4",
+  "type":"480P"
+  },
+                                            
+                                                          {"link":"https://videos.files.wordpress.com/Ly0dBuV1/highlights__liverpool_9-0_bournemouth___record-breaking_nine_goals_at_anfield2521281080p5029_mp4_std.mp4",
+  "type":"240P"
   }
 ]
 }, 
