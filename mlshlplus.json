@@ -2,7 +2,7 @@
           {       
   "hdate":"Sept 1(120 MB)",
 "result":"Liverpool  2-1 Newcastle",
-"himgurl":"https://cdn.vox-cdn.com/thumbor/3c-80cZnD4SxGYuCAohvKgkMNL4=/0x0:4679x3119/1200x800/filters:focal(1865x1128:2613x1876)/cdn.vox-cdn.com/uploads/chorus_image/image/71302155/1240366379.0.jpg",
+"himgurl":"https://library.sportingnews.com/styles/crop_style_16_9_mobile_2x/s3/2022-08/sporting-news-2022-photo-with-watermark-a0b0cdf4-6aa8-4405-9c29-2abeff0bf35e_0.png?itok=NBpRhwDl",
                                   "hvurl": [
  
                                
@@ -11,6 +11,12 @@
   },
                                              {"link":"https://videos.files.wordpress.com/pEx0iVra/liverpool2-1newcastle_mp4_std.mp4",
   "type":"360P"
+  },
+                                             {"link":"https://aktechnct.nctbd5.workers.dev/6:/LIV_vs_NEW_-_First-Half.mp4",
+  "type":"Full Match(1st Half)"
+  },
+                                             {"link":"https://aktechnct.nctbd5.workers.dev/6:/LIV_vs_NEW_-_Second-Half.mp4",
+  "type":"Full Match(2nd Half)"
   }
 ]
 }, 
