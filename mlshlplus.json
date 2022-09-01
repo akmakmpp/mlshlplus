@@ -1,12 +1,15 @@
 [
           {       
-  "hdate":"Sept 1",
+  "hdate":"Sept 1(120 MB)",
 "result":"Liverpool  2-1 Newcastle",
 "himgurl":"https://cdn.vox-cdn.com/thumbor/3c-80cZnD4SxGYuCAohvKgkMNL4=/0x0:4679x3119/1200x800/filters:focal(1865x1128:2613x1876)/cdn.vox-cdn.com/uploads/chorus_image/image/71302155/1240366379.0.jpg",
                                   "hvurl": [
  
                                
-                                                          {"link":"https://cdnc33.koralast.com/UpFiles/2022/8/31/51/232831/360p.m3u8",
+                                                          {"link":"https://nolivbd.files.wordpress.com/2022/09/liverpool2-1newcastle.mp4",
+  "type":"1080P"
+  },
+                                             {"link":"https://videos.files.wordpress.com/pEx0iVra/liverpool2-1newcastle_mp4_std.mp4",
   "type":"360P"
   }
 ]
