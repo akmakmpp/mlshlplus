@@ -1,4 +1,19 @@
 [
+    {       
+  "hdate":"Oct 5",
+"result":"Liverpool 2-0 Rangers",
+"himgurl":"https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/bltbc319d360e995d15/633c8b73fb6ee0105793d66c/GettyImages-1430437997.jpg?auto=webp&fit=crop&format=jpg&height=800&quality=60&width=1200",
+                                  "hvurl": [
+ 
+                               
+                                                          {"link":"https://ccddnnm236402.koralast.com/UpFiles/2022/10/4/51/235821/720p.m3u8",
+  "type":"720P"
+  },
+                                             {"link":"https://ccddnnm236402.koralast.com/UpFiles/2022/10/4/51/235821/360p.m3u8",
+  "type":"360P"
+  }
+]
+}, 
   {       
   "hdate":"Oct 1",
 "result":"Liverpool 3-3 Brighton",
