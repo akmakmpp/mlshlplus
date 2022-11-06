@@ -1,5 +1,20 @@
 [
       {       
+  "hdate":"Nov 6",
+"result":"Spurs 1-2 Liverpool",
+"himgurl":"https://pbs.twimg.com/media/Fg5of5iWIAAnE6V?format=jpg&name=900x900",
+                                  "hvurl": [
+ 
+          
+                                    {"link":"https://myvva3.myvidnow.net/UpFiles/2022/11/6/42/239732/720p.m3u8",
+  "type":"720P"
+  },
+                                                               {"link":"https://myvva3.myvidnow.net/UpFiles/2022/11/6/42/239732/360p.m3u8",
+  "type":"360P"
+  }
+]
+}, 
+      {       
   "hdate":"Nov 2",
 "result":"Liverpool 2-0 Napoli",
 "himgurl":"https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(jpeg):focal(1250x376:1252x374)/origin-imgresizer.eurosport.com/2022/11/01/3482697-71001108-2560-1440.jpg",
